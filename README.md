@@ -23,17 +23,18 @@
 </p>
 
 ### Experiência 
-
 - 💻 Graduando em Ciência da Computação (Faculdade Anhanguera)
+  
 ### Certificados
 - 📚 Git e GitHub: compartilhando e colaborando em projetos
 - 📚 Java: criando a sua primeira aplicação
+- 📚 Java: aplicando a orientação a objetos
 - 📚 Lógica de programação: mergulhe em programação com JavaScript
 - 📚 PHP: criando sua aplicação
 - 📚 PHP: conceitos, lidando com dados, loops e mais
+- 📚 MySQL: conhecendo a ferramenta
+  
 ### Formação
-
-
 - 📚Java Web: crie aplicações usando Spring Boot (em andamento)
 
 
