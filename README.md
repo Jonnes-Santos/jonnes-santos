@@ -4,7 +4,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-👋 Olá! Meu nome é Jonnes, e sou graduando em Ciência da Computação com um entusiasmo apaixonado pela arte do desenvolvimento de software. Meu foco acadêmico e pessoal tem sido na construção de habilidades sólidas em programação e na compreensão dos fundamentos da computação.
+👋 Olá! Meu nome é Jonnes, sou graduando em Ciência da Computação e tenho uma paixão intensa pelo desenvolvimento de software. Ao longo da minha jornada acadêmica, venho me concentrando em construir uma base sólida em programação, além de explorar profundamente os fundamentos teóricos e práticos da computação. Acredito que o aprendizado contínuo e a busca por soluções inovadoras são essenciais para evoluir nesse campo, e estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 📘 Atualmente, estou em busca de oportunidades para aplicar e expandir meu conhecimento em desenvolvimento de software. Embora ainda não tenha experiência profissional, venho dedicando tempo e esforço consistentes para me aprimorar e evoluir como desenvolvedor. Estou animado com a perspectiva de contribuir para projetos desafiadores e aprender com profissionais experientes da área.
 
