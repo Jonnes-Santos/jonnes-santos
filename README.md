@@ -33,6 +33,8 @@
 - 📚 PHP: criando sua aplicação
 - 📚 PHP: conceitos, lidando com dados, loops e mais
 - 📚 MySQL: conhecendo a ferramenta
+- 📚 Linux: gerenciando diretórios, arquivos, permissões e processos
+- 📚 Segurança da informação para todos: Proteja você e sua empresa contra ameaças cibernéticas
   
 ### Formação
 - 📚Java Web: crie aplicações usando Spring Boot (em andamento)
