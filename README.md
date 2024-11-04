@@ -36,6 +36,8 @@
 - 📚 Linux: gerenciando diretórios, arquivos, permissões e processos
 - 📚 Segurança da informação para todos: Proteja você e sua empresa contra ameaças cibernéticas
 - 📚 Pentest: explorando vulnerabilidades em aplicações web
+- 📚 Pentest: Investigando vulnerabilidades em um servidor web
+- 📚 Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
   
 ### Formação
 - 📚Java Web: crie aplicações usando Spring Boot (em andamento)
