@@ -9,6 +9,8 @@
 📘 Atualmente, estou em busca de oportunidades para aplicar e expandir meu conhecimento em desenvolvimento de software. Embora ainda não tenha experiência profissional, venho dedicando tempo e esforço consistentes para me aprimorar e evoluir como desenvolvedor. Estou animado com a perspectiva de contribuir para projetos desafiadores e aprender com profissionais experientes da área.
 
 💻 Minha jornada de aprendizado inclui experiência básica com linguagens como Java, PhP e SQL, além da familiaridade em desenvolvimento web com HTML, CSS e JavaScript. Tenho explorado conceitos fundamentais de estruturas de dados, algoritmos e design de software, e estou pronto para enfrentar novos desafios que me permitam crescer ainda mais.
+
+🔒 Além disso, estou me especializando em hacker ofensivo (Ethical Hacker) e concluí cursos de pentest em aplicações web e em servidores web, expandindo meu entendimento sobre segurança cibernética. Também possuo certificados em Linux UBUNTU, o que complementa minha formação técnica e amplia minhas capacidades na área.
   
 <div align="center"> 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlhaTkwODhua2V0YmE3azlidGs0MTFpOXIzZzkzMnd4MzVhdmdjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
