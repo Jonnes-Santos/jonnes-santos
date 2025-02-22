@@ -30,18 +30,20 @@ Além disso, estou me especializando em Ethical Hacking, com foco em testes de i
 - 💻 Graduando em Ciência da Computação (Faculdade Anhanguera)
   
 ### Certificados
-- 📚 Git e GitHub: compartilhando e colaborando em projetos
-- 📚 Java: criando a sua primeira aplicação
-- 📚 Java: aplicando a orientação a objetos
-- 📚 Lógica de programação: mergulhe em programação com JavaScript
-- 📚 PHP: criando sua aplicação
-- 📚 PHP: conceitos, lidando com dados, loops e mais
-- 📚 MySQL: conhecendo a ferramenta
-- 📚 Linux: gerenciando diretórios, arquivos, permissões e processos
-- 📚 Segurança da informação para todos: Proteja você e sua empresa contra ameaças cibernéticas
-- 📚 Pentest: explorando vulnerabilidades em aplicações web
-- 📚 Pentest: Investigando vulnerabilidades em um servidor web
-- 📚 Segurança web em Java: evitando SQL Injection, força bruta e outros ataques
+- 📚 Git e GitHub: compartilhando e colaborando em projetos (Alura)
+- 📚 Java: criando a sua primeira aplicação (Alura)
+- 📚 Java: aplicando a orientação a objetos (Alura)
+- 📚 Lógica de programação: mergulhe em programação com JavaScript (Alura)
+- 📚 PHP: criando sua aplicação (Alura)
+- 📚 PHP: conceitos, lidando com dados, loops e mais (Alura)
+- 📚 MySQL: conhecendo a ferramenta (Alura)
+- 📚 Linux: gerenciando diretórios, arquivos, permissões e processos (Alura)
+- 📚 Segurança da informação para todos: Proteja você e sua empresa contra ameaças cibernéticas (ALura)
+- 📚 Pentest: explorando vulnerabilidades em aplicações web (Alura)
+- 📚 Pentest: Investigando vulnerabilidades em um servidor web (Alura)
+- 📚 Segurança web em Java: evitando SQL Injection, força bruta e outros ataques (Alura)
+- 📚 Introduction to Cybersecurity (CISCO Networking Academy)
+- 📚 Ethical Hacker (CISCO Networking Academy)
   
 ### Formação
 - 📚Java Web: crie aplicações usando Spring Boot (em andamento)
