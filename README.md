@@ -4,11 +4,15 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-  Olá! Meu nome é Jonnes, sou graduando em Ciência da Computação e tenho uma paixão intensa pelo desenvolvimento de software e pela segurança da informação. Ao longo da minha jornada acadêmica, venho me concentrando em construir uma base sólida em programação, além de explorar profundamente os fundamentos teóricos e práticos da computação. Acredito que o aprendizado contínuo e a busca por soluções inovadoras são essenciais para evoluir nesse campo, e estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
-  Atualmente, estou em busca de oportunidades para aplicar e expandir meu conhecimento em desenvolvimento de software. Tenho me dedicado ao estudo de linguagens como Java, PHP e SQL, além de explorar o desenvolvimento web com HTML, CSS e JavaScript. Minha experiência inclui conceitos fundamentais de estruturas de dados, algoritmos e design de software, que me ajudam a enfrentar desafios e a evoluir constantemente.
 
-  Além disso, estou me especializando em hacker ofensivo (Ethical Hacking) e concluí cursos de pentest em aplicações web e servidores. Combinando esses conhecimentos com certificados em Linux Ubuntu, tenho ampliado minha formação técnica e aprimorado minha capacidade de identificar e corrigir vulnerabilidades em sistemas, fortalecendo meu perfil como pentester e profissional de segurança cibernética.
+Olá! Meu nome é Jonnes, sou graduando em Ciência da Computação e possuo uma paixão genuína pelo desenvolvimento de software e pela segurança da informação. Ao longo da minha trajetória acadêmica, tenho me dedicado a construir uma base sólida em programação, aliando teoria e prática para compreender os pilares fundamentais da computação. Acredito que a busca constante por conhecimento e a aplicação de soluções inovadoras são essenciais para se destacar nessa área, e é por isso que encaro cada desafio como uma oportunidade de crescimento.
+
+Atualmente, atuo como **Analista de Redes e Infraestrutura**, onde aplico e amplio meus conhecimentos em administração de sistemas, gerenciamento de redes e otimização de infraestruturas tecnológicas. Tenho experiência com linguagens como Java, PHP e SQL, além de domínio em desenvolvimento web utilizando HTML, CSS e JavaScript. Minha bagagem técnica inclui conhecimentos avançados em estruturas de dados, algoritmos e design de software, habilidades que me permitem enfrentar problemas complexos e entregar soluções eficientes.
+
+Além disso, estou me especializando em Ethical Hacking, com foco em testes de invasão (pentest) em aplicações web e servidores. Complementando essa expertise, possuo certificações em Linux Ubuntu, o que amplia minha capacidade de identificar e corrigir vulnerabilidades em sistemas. Essa combinação de habilidades técnicas e visão estratégica fortalece meu perfil como profissional de segurança cibernética, preparado para proteger infraestruturas e garantir a integridade de sistemas.
+
+
   
 <div align="center"> 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlhaTkwODhua2V0YmE3azlidGs0MTFpOXIzZzkzMnd4MzVhdmdjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
