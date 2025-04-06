@@ -8,9 +8,14 @@
 
 Olá! Meu nome é Jonnes, sou graduando em Ciência da Computação e possuo uma paixão genuína pelo desenvolvimento de software e pela segurança da informação. Ao longo da minha trajetória acadêmica, tenho me dedicado a construir uma base sólida em programação, aliando teoria e prática para compreender os pilares fundamentais da computação. Acredito que a busca constante por conhecimento e a aplicação de soluções inovadoras são essenciais para se destacar nessa área, e é por isso que encaro cada desafio como uma oportunidade de crescimento.
 
-Atualmente, atuo como **Analista de Redes e Infraestrutura**, onde aplico e amplio meus conhecimentos em administração de sistemas, gerenciamento de redes e otimização de infraestruturas tecnológicas. Tenho experiência com linguagens como Java, PHP e SQL, além de domínio em desenvolvimento web utilizando HTML, CSS e JavaScript. Minha bagagem técnica inclui conhecimentos avançados em estruturas de dados, algoritmos e design de software, habilidades que me permitem enfrentar problemas complexos e entregar soluções eficientes.
+Atualmente, atuo como Analista de Redes e Infraestrutura, com foco em suporte técnico avançado e administração de sistemas. Minhas responsabilidades incluem:
+- Manutenção remota de sistemas: Acesso e gerenciamento de computadores corporativos para atualização de ferramentas, correção de erros e verificação de integridade do sistema operacional.
+- Otimização de infraestrutura: Garantir a operacionalidade contínua dos recursos tecnológicos, identificando e resolvendo vulnerabilidades para minimizar riscos e interrupções.
+- Segurança proativa: Implementação de práticas que asseguram a conformidade e a proteção dos ambientes digitais, alinhadas às políticas de segurança da empresa.
 
-Além disso, estou me especializando em Ethical Hacking, com foco em testes de invasão (pentest) em aplicações web e servidores. Complementando essa expertise, possuo certificações em Linux Ubuntu, o que amplia minha capacidade de identificar e corrigir vulnerabilidades em sistemas. Essa combinação de habilidades técnicas e visão estratégica fortalece meu perfil como profissional de segurança cibernética, preparado para proteger infraestruturas e garantir a integridade de sistemas.
+Minha experiência abrange linguagens como Java, PHP e SQL, além de domínio em desenvolvimento web (HTML, CSS, JavaScript) e conhecimentos avançados em estruturas de dados, algoritmos e design de software. Paralelamente, estou me especializando em Ethical Hacking, com certificações em Linux Ubuntu e foco em testes de invasão (pentest) em aplicações web e servidores. Essa combinação técnica me permite não apenas solucionar problemas complexos, mas também antecipá-los, fortalecendo a resiliência de sistemas críticos.
+
+Meu objetivo é unir expertise técnica e visão estratégica para proteger infraestruturas digitais, promover a eficiência operacional e contribuir para a transformação segura e inovadora das organizações.
 
 
   
