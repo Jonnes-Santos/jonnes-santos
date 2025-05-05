@@ -6,17 +6,23 @@
 
 
 
-Olá! Meu nome é Jonnes, sou graduando em Ciência da Computação e possuo uma paixão genuína pelo desenvolvimento de software e pela segurança da informação. Ao longo da minha trajetória acadêmica, tenho me dedicado a construir uma base sólida em programação, aliando teoria e prática para compreender os pilares fundamentais da computação. Acredito que a busca constante por conhecimento e a aplicação de soluções inovadoras são essenciais para se destacar nessa área, e é por isso que encaro cada desafio como uma oportunidade de crescimento.
+Olá! Sou Jonnes, graduando em Ciência da Computação e profissional de TI com experiência em gestão de equipes, desenvolvimento de software e infraestrutura de sistemas.
 
-Atualmente, atuo como Analista de Redes e Infraestrutura, com foco em suporte técnico avançado e administração de sistemas. Minhas responsabilidades incluem:
-- Manutenção remota de sistemas: Acesso e gerenciamento de computadores corporativos para atualização de ferramentas, correção de erros e verificação de integridade do sistema operacional.
-- Otimização de infraestrutura: Garantir a operacionalidade contínua dos recursos tecnológicos, identificando e resolvendo vulnerabilidades para minimizar riscos e interrupções.
-- Segurança proativa: Implementação de práticas que asseguram a conformidade e a proteção dos ambientes digitais, alinhadas às políticas de segurança da empresa.
+Atualmente atuo como Supervisor de TI, liderando times de suporte e infraestrutura, garantindo a estabilidade de sistemas corporativos e implementando melhorias contínuas em processos tecnológicos. Minha rotina envolve desde a resolução de problemas complexos até a definição de estratégias para aumentar a eficiência operacional.
 
-Minha experiência abrange linguagens como Java, PHP e SQL, além de domínio em desenvolvimento web (HTML, CSS, JavaScript) e conhecimentos avançados em estruturas de dados, algoritmos e design de software. Paralelamente, estou me especializando em Ethical Hacking, com certificações em Linux Ubuntu e foco em testes de invasão (pentest) em aplicações web e servidores. Essa combinação técnica me permite não apenas solucionar problemas complexos, mas também antecipá-los, fortalecendo a resiliência de sistemas críticos.
+Como Desenvolvedor, tenho experiência em:
 
-Meu objetivo é unir expertise técnica e visão estratégica para proteger infraestruturas digitais, promover a eficiência operacional e contribuir para a transformação segura e inovadora das organizações.
+Backend: Node.js, Java e conhecimentos básicos em PHP.
 
+Frontend: JavaScript, HTML e CSS.
+
+Banco de Dados: MySQL, com prática em modelagem e administração via Workbench.
+
+Além disso, possuo conhecimentos básicos em Ethical Hacking, com interesse em segurança ofensiva e proteção de sistemas, buscando sempre integrar boas práticas de segurança no desenvolvimento e na infraestrutura.
+
+Meu objetivo é unir liderança técnica e expertise em desenvolvimento para criar soluções robustas e seguras, seja em ambientes corporativos ou projetos inovadores. Estou aberto a colaborações e oportunidades que desafiem minha capacidade de resolver problemas e entregar resultados estratégicos.
+
+Vamos conversar?
 
   
 <div align="center"> 
