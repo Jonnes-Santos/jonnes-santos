@@ -2,15 +2,15 @@
 
 Olá! Sou Jonnes, graduando em Ciência da Computação e profissional de TI com experiência em gestão de equipes, desenvolvimento de software e infraestrutura de sistemas.
 
-Atualmente atuo como Desenvolvedor full stack (php laravel lumen + Vue.js) na DAD engenharia (Empresa de desenvolvimento de software especialista em desenvolvimento de soluções de monitoramento e investigação para a policia civil), Supervisor de TI, liderando times de suporte e infraestrutura, garantindo a estabilidade de sistemas corporativos e implementando melhorias contínuas em processos tecnológicos. Minha rotina envolve desde a resolução de problemas complexos até a definição de estratégias para aumentar a eficiência operacional.
+Atualmente atuo como Desenvolvedor full stack (php laravel lumen + Vue.js) na DAD engenharia (Empresa de desenvolvimento de software especialista em desenvolvimento de soluções de monitoramento e investigação para a policia civil). Anteriormente atuava como supervisor de TI, liderando times de suporte e infraestrutura, garantindo a estabilidade de sistemas corporativos e implementando melhorias contínuas em processos tecnológicos. Minha rotina envolve desde a resolução de problemas complexos até a definição de estratégias para aumentar a eficiência operacional.
 
 Como Desenvolvedor, tenho experiência em:
 
-Backend: Node.js, Java e conhecimentos básicos em PHP.
+Backend: Node.js, Java Spring boot e PhP laravel (Artisan/Lumen).
 
-Frontend: JavaScript, HTML e CSS.
+Frontend: JavaScript React, HTML e CSS.
 
-Banco de Dados: MySQL, com prática em modelagem e administração via Workbench.
+Banco de Dados: MySQL e postgres, com prática em modelagem e administração via Workbench.
 
 Além disso, possuo conhecimentos básicos em Ethical Hacking, com interesse em segurança ofensiva e proteção de sistemas, buscando sempre integrar boas práticas de segurança no desenvolvimento e na infraestrutura.
 
@@ -75,8 +75,8 @@ Vamos conversar?
 ##
 ### Contatos:
 <div align="center"> 
-  <a href="https://www.instagram.com/john1santoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jonnes.santos01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/john01santoz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jonnes.santos1@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonnes-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
