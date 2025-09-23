@@ -10,7 +10,7 @@ Backend: Node.js, Java Spring boot e PhP laravel (Artisan/Lumen).
 
 Frontend: JavaScript React, HTML e CSS.
 
-Banco de Dados: MySQL e postgres, com prática em modelagem e administração via Workbench.
+Banco de Dados: MySQL e postgres, com prática em modelagem e administração via Workbench/Antares.
 
 Além disso, possuo conhecimentos básicos em Ethical Hacking, com interesse em segurança ofensiva e proteção de sistemas, buscando sempre integrar boas práticas de segurança no desenvolvimento e na infraestrutura.
 
