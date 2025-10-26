@@ -1,22 +1,27 @@
 
 
-Olá! Sou Jonnes, graduando em Ciência da Computação e profissional de TI com experiência em gestão de equipes, desenvolvimento de software e infraestrutura de sistemas.
 
-Atualmente atuo como Desenvolvedor full stack (php laravel lumen + Vue.js) na DAD engenharia (Empresa de desenvolvimento de software especialista em desenvolvimento de soluções de monitoramento e investigação para a policia civil). Anteriormente atuava como supervisor de TI, liderando times de suporte e infraestrutura, garantindo a estabilidade de sistemas corporativos e implementando melhorias contínuas em processos tecnológicos. Minha rotina envolve desde a resolução de problemas complexos até a definição de estratégias para aumentar a eficiência operacional.
+Olá! Sou Jonnes, estudante de Ciência da Computação e Desenvolvedor Backend com experiência prática em PHP, Node.js e Java.
 
-Como Desenvolvedor, tenho experiência em:
+Atualmente, atuo como Desenvolvedor Backend PHP na Simoa, onde aplico minhas habilidades para criar e manter soluções robustas. 
 
-Backend: Node.js, Java Spring boot e PhP laravel (Artisan/Lumen).
+Minha trajetória inclui uma passagem pela Supervisão Técnica, onde fortaleci minha capacidade de garantir a estabilidade e otimização de sistemas na empresa GATECnet.
 
-Frontend: JavaScript React, HTML e CSS.
+ E pela DAD Engenharia, onde participei ativamente do desenvolvimento de um aplicativo investigativo utilizando Laravel (PHP) no backend e Vue.js no frontend, com administração do banco de dados PostgreSQL no Antares.
 
-Banco de Dados: MySQL e postgres, com prática em modelagem e administração via Workbench/Antares.
+Minhas competências técnicas incluem:
 
-Além disso, possuo conhecimentos básicos em Ethical Hacking, com interesse em segurança ofensiva e proteção de sistemas, buscando sempre integrar boas práticas de segurança no desenvolvimento e na infraestrutura.
+ Backend: PHP, Node.js, Java e Spring Boot
 
-Meu objetivo é unir liderança técnica e expertise em desenvolvimento para criar soluções robustas e seguras, seja em ambientes corporativos ou projetos inovadores. Estou aberto a colaborações e oportunidades que desafiem minha capacidade de resolver problemas e entregar resultados estratégicos.
+ Frontend: JavaScript, React, Vue.js, HTML e CSS
 
-Vamos conversar?
+ Banco de Dados: MySQL (modelagem e administração) e PostgreSQL
+
+ Interesses: Segurança Ofensiva e Ethical Hacking, com estudos contínuos para desenvolver soluções tecnológicas inovadoras e seguras.
+
+Estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir com projetos de impacto. Vamos trocar uma ideia?
+
+
 
   
 <div align="center"> 
